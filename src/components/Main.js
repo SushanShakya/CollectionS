@@ -70,6 +70,18 @@ class Main extends React.Component {
           <p>
           +977 9840099513<br/> +977 9803538196  
           </p>
+          <ul className="actions">
+            <li>
+              <a href="https://www.facebook.com/Collection-S-112038061140873" target="_blank" className="icon fa-facebook-official">
+                <span className="label">Facebook</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=surajshakya9@gmail.com&su=CollectionS&body=Hello&bcc=sushaanshakya88@gmail.com" target="_blank" className="icon fa-envelope">
+                <span className="label">Facebook</span>
+              </a>
+            </li>
+          </ul>
           {/* <p>
             
           </p> */}
